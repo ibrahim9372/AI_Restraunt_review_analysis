@@ -1,0 +1,16 @@
+
+Food Rating:  
+Our Restaurant: 616  
+Competitor: 48   
+
+Ambiance Rating:
+Our Restaurant:632 
+Competitor:46  
+
+Service Rating: 
+Our Restaurant:610 
+Competitor:49 
+
+Overall Rating: 
+ur Restaurant:614  
+Competitor: 48 

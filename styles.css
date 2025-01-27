@@ -1,0 +1,75 @@
+
+.main {
+    background-color: #e6f7ff;
+}
+h1 {
+    color: whitesmoke;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+}
+.overview {
+    
+    padding: 20px;
+    border-radius: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;  
+    align-items: flex-start;
+}
+
+.overview p {
+    font-size: 20px;
+    color: whitesmoke;  
+}
+
+.review {
+    background: scroll;
+    background-color: #e6f7ff;
+    border: 5px;
+    border-radius: 2px;
+}
+.review h3 {
+    font-size: 20px;
+    color: whitesmoke;
+    font-weight: 500;
+}
+.label {
+    color: whitesmoke;   
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.review p {
+    font-size: 17px ;
+    color: whitesmoke;
+    font-weight: 500;
+}
+.food {
+    font-size: 17px ;
+    color: #D8B7DD;
+
+}
+.service {
+    font-size: 17px ;
+    color:#bd5e95;
+}
+.review-line {
+    border-top: 2px solid #fff;  
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.ratings {
+    color: whitesmoke;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.url_input {
+    border-radius: 10px;
+    background-color: white;
+    width: 900px;
+    height: 50px;
+    color:black
+}
